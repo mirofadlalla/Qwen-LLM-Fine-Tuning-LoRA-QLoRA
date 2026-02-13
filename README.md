@@ -1,6 +1,12 @@
 # Qwen LLM Fine-Tuning with LoRA / QLoRA  
 **Production-Oriented Parameter-Efficient Fine-Tuning**
 
+## 📓 Notebook & Implementation
+Run the training pipeline directly on Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JhnEZPtYEpil6M7P69cN5hlpPdYFNXgM?usp=sharing)
+
+
 ## 📌 Project Overview
 This project demonstrates **parameter-efficient fine-tuning (PEFT)** of a large language model using **LoRA / QLoRA**, focusing on **efficient training, scalability, and production-ready inference**.
 
